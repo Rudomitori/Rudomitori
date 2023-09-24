@@ -1,16 +1,39 @@
-### Hi there 👋
+<style>
+    .badges {
+        display: flex;
+        align-items: start;
+        gap: 2px;
+    }
 
-<!--
-**Rudomitori/Rudomitori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    .badges.row {
+        flex-direction: row;
+    }
 
-Here are some ideas to get you started:
+    .badges.col {
+        flex-direction: column;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    span.badge {
+        background-color: var(--bg-color);
+        display: block;
+        width: min-content;
+        padding: 4px;
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    span.badge p {
+        margin: 0;
+    }
+
+    .badge {
+        height: 24px;
+        margin: 0;
+    }
+
+    .badge.main {
+        height: 42px;
+    }
+</style>
+
+![asd](./content.svg)
