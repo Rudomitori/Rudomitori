@@ -1,39 +1,20 @@
-<style>
-    .badges {
-        display: flex;
-        align-items: start;
-        gap: 2px;
-    }
+### Techs
+* I know well:
+`C#` `.NET` `ASP.NET Core` `EF` | `PostgreSQL` `Pl/SQL` `Pl/pgSQL` | `TS` `React` | `Git` | `REST` | `UML`
+* I know: `Docker` | `PowerShell` `Bash` | `Ubuntu` | `SCSS` `CSS Modules` | `gRPC` | `BPMN`
+* I had deal with: `.NET Framework` `EF 6` | `OpenSearch` | `JQuery` | `Vue 2` | `Less` 
+* I know and hate: `CSS` `HTML` `JS`
+* Techs I want to know: `Rust` | `MongoDB` `SurrealDB` | `Message brokers` `k8s` `Microservices`
 
-    .badges.row {
-        flex-direction: row;
-    }
+### Work experience:
 
-    .badges.col {
-        flex-direction: column;
-    }
+[<img align="left" height="94px" width="94px" alt="MCC Soft" src="./images/MccSoft.png"/>](https://github.com/mccsoft)
+**Full-stack** \
+[**MCC Soft**](https://github.com/mccsoft) • August 2022 - ... \
+Techs: `C#` `.NET` `ASP.NET Core` `EF` `PostgreSQL` `OpenSearch` `React` `TS` `SCSS` `CSS Modules` \
+<br/>
 
-    span.badge {
-        background-color: var(--bg-color);
-        display: block;
-        width: min-content;
-        padding: 4px;
-        font-size: 16px;
-        line-height: 16px;
-    }
-
-    span.badge p {
-        margin: 0;
-    }
-
-    .badge {
-        height: 24px;
-        margin: 0;
-    }
-
-    .badge.main {
-        height: 42px;
-    }
-</style>
-
-![asd](./content.svg)
+**Full-stack** \
+[**ГК Инком**](https://incom.tomsk.ru/) • June 2021 - May 2022 \
+Techs: `C#` `.NET Framework` `ASP.NET MVC` `EF 6` `PostgreSQL` `JQuery` `JS` `Less` `Kendo UI` \
+<br/>
