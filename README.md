@@ -1,16 +1,19 @@
 ### Techs
-* I know well:
-`C#` `.NET` `ASP.NET Core` `EF` | `PostgreSQL` `Pl/SQL` `Pl/pgSQL` | `TS` `React` | `Git` | `REST` | `UML`
+* I know well: `C#` `.NET` `ASP.NET Core` `EF` | `PostgreSQL` `Pl/SQL` `Pl/pgSQL` | `TS` `React` | `Git` | `REST` | `UML`
 * I know: `Docker` | `PowerShell` `Bash` | `Ubuntu` | `SCSS` `CSS Modules` | `gRPC` | `BPMN`
 * I had deal with: `.NET Framework` `EF 6` | `OpenSearch` | `JQuery` | `Vue 2` | `Less` 
 * I know and hate: `CSS` `HTML` `JS`
-* I want to know: `Rust` | `MongoDB` `SurrealDB` | `Message brokers` `k8s` `Microservices`
+* I want to know: `Rust` | `Redis`  `SurrealDB` | `Message brokers` `k8s` `Microservices`
 
 ### Work experience:
+**Backend** \
+[**OZON Tech**](https://ozon.tech/) • June 2024 - ... \
+Techs: `C#` `.NET` `ASP.NET Core` `EF` `PostgreSQL` `gRPC` `Microservices` \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="MCC Soft" src="./images/MccSoft.png"/>](https://github.com/mccsoft)
 **Full stack** \
-[**MCC Soft**](https://github.com/mccsoft) • August 2022 - ... \
+[**MCC Soft**](https://github.com/mccsoft) • August 2022 - May 2024 \
 Techs: `C#` `.NET` `ASP.NET Core` `EF` `PostgreSQL` `OpenSearch` `React` `TS` `SCSS` `CSS Modules` \
 <br/>
 
